@@ -9,8 +9,8 @@ baseurl: "/"
 url: https://NGOKHANHB1309527.github.io
 paginate: 12
 github:
-  user: hugocarreira
-  repository: jekyll-materializecss
+  user: NGOKHANHB139527
+  repository: https://NGOKHANHB1309527.github.io
   url: https://NGOKHANHB1309527.github.io
   status: true
 home_bgfile: bg.jpg
