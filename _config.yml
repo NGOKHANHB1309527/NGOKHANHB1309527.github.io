@@ -6,12 +6,12 @@ author_github: hugocarreira
 description: |
   a simple theme for Jekyll using Materializecss
 baseurl: "/"
-url: https://NGOKHANHB1309527.github.io
+url: "https://NGOKHANHB1309527.github.io"
 paginate: 12
 github:
   user: hugocarreira
   repository: jekyll-materializecss
-  url: https://NGOKHANHB1309527.github.io
+  url: "https://NGOKHANHB1309527.github.io"
   status: true
 home_bgfile: bg.jpg
 sass:
